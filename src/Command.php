@@ -1,5 +1,5 @@
 <?php
-namespace mikehaertl\shellcommand;
+namespace cars24\shellcommand;
 
 /**
  * Command
